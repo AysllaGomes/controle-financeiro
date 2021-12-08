@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ORrcktkOOMEIR/cyfT4+sOe9Om30Q4eVCPOYckkY/+c6jG63Dt3nQfAUNvNDfTxvYs1yv6W3RvP8LYZNtvhFvA==",
+  "dgSpecHash": "zg+r+DVqeJsTJS6oBgu94e+yUW3TbImPhhgCp6PmkJxkqBIw9QKUeOgXd+cViBx8pXfCnWudwV7MVFNJI6ZEZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aysll\\Desktop\\Workspace\\Projects\\ControleFinanceiro\\ControleFinanceiro.DAL\\ControleFinanceiro.DAL.csproj",
   "expectedPackageFiles": [
@@ -132,9 +132,7 @@
     "C:\\Users\\aysll\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\aysll\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\aysll\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

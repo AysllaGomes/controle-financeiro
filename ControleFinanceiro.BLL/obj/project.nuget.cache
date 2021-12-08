@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/VSTvd5jx/IZArSVkJmeWHV94eVZY9yDrE6QSTCXwiKdCrALTV9dhGYbl2XwT2stUjVniFeClnQ9K+kAok6Z4w==",
+  "dgSpecHash": "7I2FzWQNjyVGkOgA61jCmFvL+Wrw0A3rGue0Cr9BwV6DXPhNEdlM8BjIu4SJOd2K/COMloMlaZpoTpYkuj+TzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aysll\\Desktop\\Workspace\\Projects\\ControleFinanceiro\\ControleFinanceiro.BLL\\ControleFinanceiro.BLL.csproj",
   "expectedPackageFiles": [
@@ -47,9 +47,7 @@
     "C:\\Users\\aysll\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\aysll\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\aysll\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\aysll\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
